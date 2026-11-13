@@ -3,7 +3,7 @@
 ## 📋 Overview
 A mobile application built with Kotlin, Jetpack Compose, and Supabase as a Backend-as-a-Service (BaaS). Following Clean Architecture principles, this app manages and persists user weather preferences (favorite city and preferred temperature unit) using asynchronous CRUD operations.
 
-[Software Demo Video](YOUR_VIDEO_LINK_HERE) *(Optional to keep public here, required in the Module Submit document)*
+[Software Demo Video](https://youtu.be/aW2cNdAi9vA) *(Optional to keep public here, required in the Module Submit document)*
 
 ## 🛠️ Development Environment & Tech Stack
 * IDE: Android Studio
