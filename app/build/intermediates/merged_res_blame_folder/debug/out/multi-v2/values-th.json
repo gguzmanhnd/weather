@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.yourname.weather.app-mergeDebugResources-9:/values-th/values-th.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Byu\\.gradle\\caches\\9.6.0\\transforms\\1f9a5c39b72461f4f7e2741efce9ad24\\transformed\\core-1.1.0\\res\\values-th\\values-th.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "466",
+                        "endColumns": "100",
+                        "endOffsets": "562"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Byu\\.gradle\\caches\\9.6.0\\transforms\\5fee5e3dfcc751f470b38ba1ec372e1c\\transformed\\browser-1.7.0\\res\\values-th\\values-th.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,158,257,368",
+                        "endColumns": "102,98,110,97",
+                        "endOffsets": "153,252,363,461"
+                    }
+                }
+            ]
+        }
+    ]
+}
